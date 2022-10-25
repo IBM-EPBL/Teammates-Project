@@ -1,0 +1,21 @@
+import random
+i=0
+
+while(i<=8):
+    a=random.randint(40,200)  
+
+    b=random.randint(40,100)  
+    print(f'Day {i}') 
+    print(f'Temperature:{a} )
+    print(f'Humidity   :{b} )
+    if a>80:
+      if b>80:
+        print("it is hazard")
+      else:
+        print("HIGH TEMPERATURE ")
+    elif a==80:
+        print("TEMPERATURE HIGH ")
+    else:
+        print("ALL GOOD ")
+    i=i+1
+    print(end="\n")
