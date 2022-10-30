@@ -5,13 +5,13 @@
 
 ### TEAM MEMBERS
  
-1)  NAVEENDEPP-4056 -Teamleader
+1)  NAVEENDEPP -4056 -Teamleader
  
-2)  NAVEENQ1  -4055 -Team Member 1
+2)  NAVEENQ1   -4055 -Team Member 1
 
-3)  VISHWA    -4100 -Team Member 2
+3)  VISHWA     -4100 -Team Member 2
   
-4)  YOKESH    -4101 -Team Member 3
+4)  YOKESH     -4101 -Team Member 3
 
 # PROJECT:
 
