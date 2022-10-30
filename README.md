@@ -1,4 +1,3 @@
-                                                                 # IOT(Internet of Thing)
 # IBM-EPBL PROJECT
 ## TEAM ID--PNT2022TMID38043
 
