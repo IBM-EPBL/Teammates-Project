@@ -1,7 +1,10 @@
+                                                                 # IOT(Internet of Thing)
 # IBM-EPBL PROJECT
 ## TEAM ID--PNT2022TMID38043
 
-![Ekwj](https://user-images.githubusercontent.com/106682526/198865572-e1506f62-61bd-4519-b446-673ddbf0bc64.gif)
+![embedded-security-for-internet-of-things](https://user-images.githubusercontent.com/106682526/198865623-bb221f87-f342-416f-8ddc-b1412718eda7.gif)
+
+
 
 
 ## Gas Leakage monitoring &amp; Alerting system for Industries
