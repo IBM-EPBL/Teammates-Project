@@ -1,9 +1,9 @@
 # IBM-EPBL PROJECT
-# TEAM ID--PNT2022TMID38043
+## TEAM ID--PNT2022TMID38043
 
 ## Gas Leakage monitoring &amp; Alerting system for Industries
 
-## TEAM MEMBERS
+### TEAM MEMBERS
  
 1)  NAVEENDEPP-4056 -Teamleader
  
@@ -18,23 +18,23 @@
 Gas Leakage Monitoring & Alerting System For Industries
 Category: Internet Of Things
 
-# Skills Required:
+## Skills Required:
 Python,IOT Application Development,IBM Cloud,IBM Watson
 
-# Project Description:
+## Project Description:
 
 Gas Leakage Monitoring & Alerting System for Industries has all the features as explained below
 
 
 
-# Features:
+## Features:
 
 This project helps the industries in monitoring the emission of harmful gases
 In several areas, the gas sensors will be integrated to monitor the gas leakage
 If in any area gas leakage is detected the admins will be notified along with the location
 In the web application, admins can view the sensor parameters.
 
-# Technical Architecture:
+## Technical Architecture:
 
 
    
